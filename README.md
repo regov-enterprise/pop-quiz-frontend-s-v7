@@ -9,7 +9,7 @@
 
 #### Question 1
 
-A cloth trading company plan to expand their product offerings in preparation for global expansion. This means they have to address various audience, device types, markets. They have decided to upgrade their current system to include the following features: custom cloth order, eKYC process, in app messaging, and offline capability.
+A garment trading company plan to expand their product offerings in preparation for global expansion. This means they have to address various audience, device types, markets. They have decided to upgrade their current system to include the following features: custom cloth order, eKYC process, in app messaging, and offline capability.
 Create an MVP app for the following requirements.
 
 1. Users should be able to do seamless registration on the app
