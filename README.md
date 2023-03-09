@@ -39,4 +39,3 @@ Create an MVP app for the following requirements.
 
 Good Luck!
 
-# pop-quiz-frontend-s-v7
